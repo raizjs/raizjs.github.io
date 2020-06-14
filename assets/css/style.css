@@ -1,0 +1,29 @@
+*{
+	font-family: arial;
+	color: #666;
+}
+
+body{
+	background-color: #eee;
+	padding: 0px 20px;
+}
+
+h1{
+	color: #666;
+}h1 cite{
+	color: #d20000;
+}h1 small{
+	font-weight: normal;
+	font-size: 14px;
+}
+
+hr{
+	border: 0px;
+    border-bottom: 1px solid #ccc;
+}
+
+a{
+	color: #315996;
+}a:hover{
+	color: #0065ff;
+}
